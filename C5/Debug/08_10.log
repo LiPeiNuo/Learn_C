@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/8/17 23:12:16。
+     1>项目“A:\vs代码\08_10\08_10.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>a:\vs代码\08_10\test.c(108): error C2065: “mine_map”: 未声明的标识符
+     1>a:\vs代码\08_10\test.c(108): warning C4047: “函数”:“char (*)[9]”与“int”的间接级别不同
+     1>a:\vs代码\08_10\test.c(108): warning C4024: “UpdateMap”: 形参和实参 2 的类型不同
+     1>a:\vs代码\08_10\test.c(108): warning C4047: “函数”:“int”与“int *”的间接级别不同
+     1>a:\vs代码\08_10\test.c(108): warning C4024: “UpdateMap”: 形参和实参 3 的类型不同
+     1>a:\vs代码\08_10\test.c(108): warning C4024: “UpdateMap”: 形参和实参 4 的类型不同
+     1>已完成生成项目“A:\vs代码\08_10\08_10.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.35
